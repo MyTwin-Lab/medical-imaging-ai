@@ -258,8 +258,9 @@ To work on your own copy of this project:
 After forking the repository:
 1. Open a terminal on your local machine.
 2. Clone your forked repository by running:
-bash
+```bash
 git clone https://github.com/&lt;your-username&gt;/&lt;repository-name&gt;.git
+```
 3. Navigate to the project directory:
 ```bash
 cd &lt;repository-name&gt;
