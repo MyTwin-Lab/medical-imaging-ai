@@ -60,19 +60,7 @@ format.
 
 ### Phase 1: Clinical Scoping &amp; Setup (Weeks 1-2)
 
-#### Week 1 Activities:
-
-**Clinical Use Case Definition**:
-- Stakeholder meetings with radiologists
-- Define intended use and clinical outputs
-- Establish success metrics and evaluation criteria
-
-**Regulatory Planning**:
-- Data Protection Impact Assessment (DPIA) initiation
-- Compliance framework establishment
-- Ethical approval requirements review
-
-#### Week 2 Activities:
+#### Week 1-2 Activities:
 
 **Dataset Preparation**:
 - CBIS-DDSM dataset acquisition and organization
